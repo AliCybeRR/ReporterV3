@@ -29,6 +29,9 @@ $ pip install -r requirements.txt
 $ cd ReporterV3
 
 $ python AliCybeRR.Reporter.py 
+
+$ Login Your Account  
+
 ```
 
 
