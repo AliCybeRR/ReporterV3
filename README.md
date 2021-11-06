@@ -34,7 +34,7 @@ $ python AliCybeRR.Reporter.py
 
 # [ 📸Images]
 Script_View🌵<br>
-<img src="script.png" /><br>
+<img src="Script.png" /><br>
 # [🕯 Support 🕯]
 
 https://T.me/AliCybeRR_KabiRR<br>
