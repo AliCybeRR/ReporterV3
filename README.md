@@ -11,8 +11,7 @@
 - [x] fast 🚀
 
  
-# [ 📀Installation Termux]
-<h2>Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
+<h2>[ 📀Installation Termux]</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
 
 ```
 $ apt update -y
