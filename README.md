@@ -13,14 +13,22 @@
  
 # [ 📀Installation Termux]
 <h2>Termux</h2><img src="https://brandslogos.com/wp-content/uploads/images/large/terminal-logo.png" width="50" height="50">  
+
 ```
 $ apt update -y
+
 $ apt upgrade -y
+
 $ apt install python -y
+
 $ apt install git
+
 $ git clone https://github.com/AliCybeRR/ReporterV3
+
 $ pip install -r requirements.txt
+
 $ cd ReporterV3
+
 $ python AliCybeRR.Reporter.py 
 ```
 
