@@ -24,9 +24,9 @@ $ apt install git
 
 $ git clone https://github.com/AliCybeRR/ReporterV3
 
-$ pip install -r requirements.txt
-
 $ cd ReporterV3
+
+$ pip install -r requirements.txt
 
 $ python AliCybeRR.Reporter.py 
 
